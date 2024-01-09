@@ -11,6 +11,7 @@ namespace UtmBuilder.Core
             Url = url;
             Campaign = campaign;
         }
+
         /// <summary>
         /// URL (Website Link)
         /// </summary>
