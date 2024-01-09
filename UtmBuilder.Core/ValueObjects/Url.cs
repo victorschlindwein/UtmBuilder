@@ -1,11 +1,10 @@
-﻿using System.Text.RegularExpressions;
-using UtmBuilder.Core.ValueObjects.Exceptions;
+﻿using UtmBuilder.Core.ValueObjects.Exceptions;
 
 namespace UtmBuilder.Core.ValueObjects
 {
     public class Url : ValueObject
     {
-        
+
         /// <summary>
         /// Create new URL
         /// </summary>
